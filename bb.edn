@@ -1,0 +1,5 @@
+{ :tasks
+  { new-post (do (print "Filename: ")
+                 (flush)
+                 (shell (str "hugo new content posts/" (read-line))))
+    build (shell "hugo")}}
