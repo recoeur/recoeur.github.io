@@ -1,7 +1,6 @@
 +++
 title = 'Setting Up This Blog'
 date = 2024-01-08T02:47:15Z
-draft = true
 +++
 
 ## Standard tools
